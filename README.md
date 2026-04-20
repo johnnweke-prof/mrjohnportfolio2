@@ -12,7 +12,7 @@ Professor, Computer Science Dept, Loyola University
 ***
 ## Projects
 ![1480374.jpg](assets%2F1480374.jpg)
-<img src="assets%2F1480374.jpg" width="150" alt="1480374.jpg">   
+<img src="assets%2F1480374.jpg" width="50%" alt="1480374.jpg">   
 
 ## Personality Test
 
