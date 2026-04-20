@@ -4,4 +4,4 @@ title: Mr. John
 #show_downloads: true
 plugins:
   - jekyll-remote-theme
-remote_theme: poole/hyde
+remote_theme: sharu725/online-cv
