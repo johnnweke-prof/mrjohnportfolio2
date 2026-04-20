@@ -1,7 +1,5 @@
-title: Mr. John 
-#logo: assets/Profile Pic new suit.jpeg
+title: Mr. John Nweke Portfolio
+logo: assets/Profile Pic new suit.jpeg
 #description: text below image
 #show_downloads: true
-plugins:
-  - jekyll-remote-theme
-remote_theme: sharu725/online-cv
+theme: jekyll-theme-minimal
