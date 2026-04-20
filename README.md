@@ -11,6 +11,7 @@ Professor, Computer Science Dept, Loyola University
 
 ***
 ## Projects
+![1480374.jpg](assets%2F1480374.jpg)
 
 ## Personality Test
 
@@ -26,7 +27,9 @@ My brother offered some assistance
  
 ***
 
-## Project 2 Title
+## Grade Calculator
+
+[Link to Project](https://studentsloyola-my.sharepoint.com/:x:/g/personal/cinweke_loyola_edu/IQAWKRNAkS0fRYA5L8_NkJ28AU_n2oQyn8cJZSBuidanwJo?e=6a7eHp)
  - Project 2 Summary
  - [insert project 2 screenshot here]
  - Project 2 Report
