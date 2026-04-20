@@ -14,6 +14,7 @@ Professor, Computer Science Dept, Loyola University
 
 ## Personality Test
 
+![ScreenShot of Personality test](assets/Profile Pic new suit.jpeg)
 
 Personality Test was done in Python. I wanted to make a test to help my students determine what their personaities are like. 
 I used Pycharm + Python + Github to create this
